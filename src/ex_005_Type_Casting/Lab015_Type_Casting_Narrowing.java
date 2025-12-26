@@ -1,6 +1,6 @@
-package ex_02_Java_Basics;
+package ex_005_Type_Casting;
 
-public class Lab013_Type_Casting_Narrowing {
+public class Lab015_Type_Casting_Narrowing {
     public static void main(String[] args) {
         int val=300;
         // 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0

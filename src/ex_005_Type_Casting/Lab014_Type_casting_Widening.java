@@ -1,6 +1,6 @@
-package ex_02_Java_Basics;
+package ex_005_Type_Casting;
 
-public class Lab012_Type_casting_Widening {
+public class Lab014_Type_casting_Widening {
     public static void main(String[] args) {
         byte b= 10;
         int a=b; // Widening- > Implicit

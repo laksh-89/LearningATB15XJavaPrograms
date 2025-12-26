@@ -1,6 +1,6 @@
-package ex_02_Java_Basics;
+package ex_04_Ternary_Operator;
 
-public class Lab022_Ternary_op {
+public class Lab020_Ternary_Op {
     public static void main(String[] args) {
         int a=55;
         int b=65;

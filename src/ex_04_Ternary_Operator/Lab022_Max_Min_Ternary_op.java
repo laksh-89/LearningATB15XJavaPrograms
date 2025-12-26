@@ -1,6 +1,6 @@
-package ex_02_Java_Basics;
+package ex_04_Ternary_Operator;
 
-public class Lab021_Max_Min {
+public class Lab022_Max_Min_Ternary_op {
     public static void main(String[] args) {
         int x=10;
         int y=20;
@@ -8,6 +8,5 @@ public class Lab021_Max_Min {
         int min = x>y ? y : x;
         System.out.println(max);
         System.out.println(min);
-
     }
 }

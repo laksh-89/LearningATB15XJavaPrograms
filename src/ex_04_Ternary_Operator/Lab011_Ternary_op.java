@@ -1,6 +1,6 @@
-package ex_02_Java_Basics;
+package ex_04_Ternary_Operator;
 
-public class Lab015_Ternary_Operator {
+public class Lab011_Ternary_op {
     public static void main(String[] args) {
         int age=19;
         String GoGoa= age>18 ? "yes" : "no";

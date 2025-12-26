@@ -1,6 +1,6 @@
-package ex_02_Java_Basics;
+package ex_04_Ternary_Operator;
 
-public class Lab017_Ternary_Operator {
+public class Lab013_Ternary_op {
     public static void main(String[] args) {
         int a=10;
         boolean result= a>10 ? true : false;

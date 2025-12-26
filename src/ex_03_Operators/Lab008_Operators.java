@@ -1,6 +1,6 @@
-package ex_02_Java_Basics;
+package ex_03_Operators;
 
-public class Lab008_operators {
+public class Lab008_Operators {
     public static void main(String[] args) {
         /*int a = 10;
         int b = 20;
@@ -30,13 +30,13 @@ public class Lab008_operators {
         //double one=d/f;
         //double two=d/l;
         //System.out.println("float value:" +f);
-       // System.out.println("double value:" +d);
+        // System.out.println("double value:" +d);
         //System.out.println("Division of f/d:" +result );
         //System.out.println("Division of f/l:" +result1);
-       //System.out.println("Division of d/f:" +one);
-       // System.out.println("Division of d/l:" +two);
+        //System.out.println("Division of d/f:" +one);
+        // System.out.println("Division of d/l:" +two);
         //System.out.println(d);
-       // System.out.println(l);
+        // System.out.println(l);
 
         /*long longvalue=100L;
         float floatvalue=3.0f;
