@@ -1,4 +1,4 @@
-package ex_04_Ternary_Operator;
+package ex_05_Ternary_Operator;
 
 public class Lab023_Ternary_trial {
     public static void main(String[] args) {

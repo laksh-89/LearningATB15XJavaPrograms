@@ -1,4 +1,4 @@
-package ex_04_Ternary_Operator;
+package ex_05_Ternary_Operator;
 
 public class Lab021_Even_Odd_ternary_Op {
     public static void main(String[] args) {
