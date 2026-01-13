@@ -1,0 +1,44 @@
+package Coding_test;
+import java.util.Scanner;
+public class Simple_Calculator {
+    public static void main(String[] args) {
+        Scanner sc= new Scanner (System.in);
+
+        System.out.println("Enter the First Number");
+        int a= sc.nextInt();
+
+        System.out.println("Enter the Second Number");
+        int b= sc.nextInt();
+
+        System.out.println("Choose an Operator");
+        System.out.println("1. Addition");
+        System.out.println("2. Subtraction");
+        System.out.println("3. Multiplication");
+        System.out.println("4. Division");
+
+        int choice= sc.nextInt();
+
+        switch (choice){
+            case 1:
+                System.out.println("Result :" + (a+b));
+                break;
+            case 2:
+                System.out.println("Result :" + (a-b));
+                break;
+            case 3:
+                System.out.println("Result :" + (a*b));
+                break;
+            case 4:
+                if(b!=0) {
+                    System.out.println("Result :" + (a/b));
+
+                } else {
+                    System.out.println("Division by zero is not allowed");
+                }
+                break;
+            default:
+                System.out.println("Invalid choice");
+        }
+        sc.close();
+    }
+}
